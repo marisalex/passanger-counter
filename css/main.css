@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-weight: bold;
+  background-image: url("https://images.pexels.com/photos/253647/pexels-photo-253647.jpeg?auto=compress&cs=tinysrgb&w=800");
+  background-size: cover;
+  margin-top: 200px;
+ }
+
+button{
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  width: 150px;
+  padding: 10px;
+  margin: 5px;
+ }
+
+#increment{
+  background-color: red;
+}
+
+#save{
+  background-color: green;
+}
